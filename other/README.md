@@ -1,3 +1,3 @@
 # Other
 
-Trigger a dismissal
+Trigger an assignment
