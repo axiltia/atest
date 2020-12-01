@@ -1,1 +1,1 @@
-as codeowner
+# Shin
