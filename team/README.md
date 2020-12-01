@@ -1,3 +1,3 @@
 # Team
 
-request a proxy team
+request a proxy team tenant
